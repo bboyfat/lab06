@@ -1,3 +1,4 @@
+Markdown
 # lab02
 $ cd ~/workspace/labs/
 $ export LAB_NUMBER=02
